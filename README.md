@@ -1,1 +1,1 @@
-# skypass-app
+# SolarPass App
